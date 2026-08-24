@@ -12,7 +12,7 @@ version = 1.0
 
 source.include_exts = py,png,jpg,jpeg,kv,atlas
 
-requirements = python3,pygame-ce,pyjnius,numpy
+requirements = python3,pygame,sdl2,sdl2_image,sdl2_mixer,sdl2_ttf,pyjnius
 
 orientation = landscape
 
